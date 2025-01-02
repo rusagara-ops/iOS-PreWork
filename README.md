@@ -1,4 +1,4 @@
-# Prework - Color Chnager App
+# Prework - Color Changer App
 
 Submitted by: **Kevin Rusagara**
 
