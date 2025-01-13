@@ -1,8 +1,8 @@
-# Prework - Focus App
+# Prework - Color Changer App
 
 Submitted by: **Kevin Rusagara**
 
-**Focus App** is an app that allows users to interact with a button that changes the background color of the app to a random color. This simple app is designed to introduce fundamental iOS development concepts, including UI creation, event handling, and Swift programming.
+**Color Changer App** is an app that allows users to interact with a button that changes the background color of the app to a random color. This simple app is designed to introduce fundamental iOS development concepts, including UI creation, event handling, and Swift programming.
 
 Time spent: **4** hours spent in total
 
@@ -12,6 +12,8 @@ The following **required** functionality is completed:
 
 - [x] Users see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
+      
+  https://imgur.com/WXcKyoM.gif
 
 ## App Brainstorming (Step 4)
 
